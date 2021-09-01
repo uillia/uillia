@@ -1,6 +1,6 @@
 ### Ola, eu sou o Willian 👋
 - 🏫 Studendt from: Fatec - Mococa;
-- ✍ Coursing: ADS - Analyst and Dev. of Systems;
+- ✍ Coursing: Analysis and Systems Dev;
 - 💼 Working at: Anywhere yet, but searching for work;
 ##
 <div>
