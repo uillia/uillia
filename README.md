@@ -1,4 +1,4 @@
-### Ola, eu sou o Willian 👋
+### Hi, I'm Willian 👋
 - 🏫 Studendt from: Fatec - Mococa;
 - ✍ Coursing: System Analysis and Development;
 - 💼 Working at: Anywhere yet, but searching for work;
