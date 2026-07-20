@@ -1,6 +1,6 @@
 ### Hi, I'm Willian 👋
 - 🏫 Studendt from Fatec - Mococa;
-- ✍ Coursing System Analysis and Development;
+- ✍ Graduate in System Analysis and Development;
 - 💼 Working at Smart Consulting;
 ##
 <div>
